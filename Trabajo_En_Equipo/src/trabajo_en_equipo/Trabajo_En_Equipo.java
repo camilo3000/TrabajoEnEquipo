@@ -11,6 +11,11 @@ public class Trabajo_En_Equipo {
         l1.insertar(1, 2);
         //Impresión de la lista
         l1.imprimir();
+        lista_sencilla l2 = new lista_sencilla();
+        //Se insertan dos datos en una segunda lista
+        l2.insertar(3, 4);
+        //Impresión de la segunda lista
+        l2.imprimir();
     }
     
 }
